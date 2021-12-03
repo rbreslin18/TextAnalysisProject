@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TextAnalysisTool
+comment0.text=\r\n\ Final\ Project\ Text\ Analysis\ Tool\r\n\ Using\ TEXTIo\ from\ java.\r\n\ Rodney\ Breslin\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=keys
+comment2.target=java.lang.String[]\ getUniqueKeys(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ printConcordance()
+comment3.text=\r\n\ Prints\ concordance\ to\ text\ file\ of\ choosing\r\n
+comment4.params=word\ lineNum
+comment4.target=void\ addReference(java.lang.String,\ int)
+comment4.text=\r\n\ Add\ a\ word\ reference\ to\ the\ concordance.\r\n
+comment5.params=
+comment5.target=java.lang.String\ readWord()
+comment5.text=\r\n\ Read\ the\ next\ word\ from\ TextIO\r\n
+numComments=6
